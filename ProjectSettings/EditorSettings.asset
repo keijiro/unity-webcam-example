@@ -3,8 +3,8 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 1
-  m_ExternalVersionControlSupport: 1
+  serializedVersion: 2
+  m_ExternalVersionControlSupport: Meta Files
   m_SerializationMode: 2
   m_WebSecurityEmulationEnabled: 0
   m_WebSecurityEmulationHostUrl: http://www.mydomain.com/mygame.unity3d
